@@ -31,4 +31,3 @@ print(final_location)
 with open(final_location, 'w') as file:
     file.write(result_str)
 
-
